@@ -1,4 +1,4 @@
-# Hi 👋 I'm Tala
+ Hi  I'm Tala
 
  Computer Science student at Birzeit University
 💻 Passionate about programming and building real-world projects
